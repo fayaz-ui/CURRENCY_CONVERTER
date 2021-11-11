@@ -1,25 +1,3 @@
-script.js
-Who has access
-s
-System properties
-Type
-Javascript
-Size
-1 KB
-Storage used
-1 KB
-Location
-Currency_Convertor_using_Javascript
-Owner
-santhosh venky
-Modified
-May 28, 2021 by santhosh venky
-Opened
-12:55 AM by me
-Created
-May 28, 2021
-No description
-Viewers can download
 const select = document.querySelectorAll(".currency");
 const btn = document.getElementById("btn");
 const num = document.getElementById("num");
