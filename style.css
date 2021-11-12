@@ -5,7 +5,7 @@
 }
 
 body{
-  background: linear-gradient(315deg, #0066FF, #00FFCC);
+  background: linear-gradient(315deg, #36d1dc , #5b86e5);
   height: 100vh;
   display: flex;
   align-items: center;
@@ -13,6 +13,7 @@ body{
 }
 
 .container{
+  position: absolute;
   background-color: white;
   padding: 10px 24px;
   border-radius: 20px;
@@ -75,6 +76,9 @@ input{
   font-size: 1em;
   margin: 0.5em 0;
 }
-.footer{
-  text-align: center;
+.footer {
+  clear: both;
+  position: relative;
+  margin-bottom: -400px;
+  font-family: Arial, Helvetica, sans-serif;
 }
