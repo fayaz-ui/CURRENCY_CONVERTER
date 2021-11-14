@@ -1,6 +1,7 @@
 # CURRENCY_CONVERTER
-Frankfurter
-Build
+I have used Frankfurter API for the data about currency.
+
+# Frankfurter BUILD
 
 Frankfurter is a free and open-source currency data API that tracks reference exchange rates published by the European Central Bank.
 
