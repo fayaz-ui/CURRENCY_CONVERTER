@@ -19,11 +19,11 @@ Get rates for a period.
 https://api.frankfurter.app/2010-01-01..2010-01-31
 For more examples, read the docs.
 
-Deployment
+# Deployment
 You can self-host Frankfurter with Docker.
 
 docker run -d -p 8080:8080 \
   -e "DATABASE_URL=<postgres_url>" \
   --name frankfurter hakanensari/frankfurter
-Miscellaneous
+## Miscellaneous
 Frankfurter was known as Fixer between 2012 and 2018. After selling the original domain, I relaunched under this name.
