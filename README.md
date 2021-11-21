@@ -7,7 +7,7 @@ Frankfurter is a free and open-source currency data API that tracks reference ex
 
 api.frankfurter.app hosts a public instance of the API.
 
-Getting Started
+Getting 
 Get the latest exchange rates.
 
 https://api.frankfurter.app/latest
